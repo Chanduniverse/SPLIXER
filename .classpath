@@ -16,5 +16,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/FFTW"/>
+	<classpathentry kind="lib" path="C:/Users/Chand/OneDrive/Documents/GitHub/SPLIXER/spectro-edit_0.4.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
